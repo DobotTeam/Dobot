@@ -1,0 +1,12 @@
+{
+    "accelerationRatio": 38,
+    "jointAcceleration": 200,
+    "jointVelocity": 200,
+    "jumpHeight": 20,
+    "linearAcceleration": 200,
+    "linearVelocity": 200,
+    "pauseTime": 100,
+    "servoAcceleration": 200,
+    "servoVelocity": 200,
+    "velocityRatio": 48
+}

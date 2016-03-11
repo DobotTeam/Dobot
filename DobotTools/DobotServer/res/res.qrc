@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dobot.png</file>
+        <file>Dobot_offline.png</file>
+        <file>Dobot_online.png</file>
+    </qresource>
+</RCC>

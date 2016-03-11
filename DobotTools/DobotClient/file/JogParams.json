@@ -1,0 +1,9 @@
+{
+    "jointAcceleration": 50,
+    "jointVelocity": 15,
+    "linearAcceleration": 40,
+    "linearVelocity": 40,
+    "servoAcceleration": 10,
+    "servoVelocity": 30,
+    "velocityRatio": 50
+}
